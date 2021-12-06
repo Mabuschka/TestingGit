@@ -8,5 +8,8 @@
 			"Name": "StaticMeshEditorExtension",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
